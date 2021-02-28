@@ -14,14 +14,14 @@ sidebar:
     # Sidebar links
     email: p18lare@ionio.com
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: 
     github: cyclenikolaos
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: #'@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: # Number/Username
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -61,8 +61,13 @@ experiences:
         I work as an electronic engineer for Hellenic Civil Aviation.
         My job is to install and maintain the electronic systems
         for the safety of air traffic.
-          - Bullet point
-          - Bullet point
+          
+    - role: Pacemaker technician
+      time: 1995 - 2000
+      company: Medtronic Hellas
+      details: |
+        I worked as a pacemaker technician.
+         
 projects:
     title: Projects
     intro: >
